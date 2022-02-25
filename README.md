@@ -19,7 +19,7 @@
 - Ruby on Rails
 - Flask
 
-###その他
+### その他
 
 - AWS(Lambda, ApiGateway, SQS, EC2, ECR, SAM, S3, CloudFront, )
 - Git GitHub
