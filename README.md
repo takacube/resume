@@ -6,6 +6,7 @@
 |---|-----|
 |Name|島倉孝尚|
 |Blog|[zenn](https://zenn.dev/takanao)|
+|Connection|[Linkdin](https://www.linkedin.com/in/shimakura-takanao-455540211/)|
 
 ## スキル
 ### 言語
@@ -32,7 +33,7 @@
 - 日本語
   - ネイティブ
 - 英語
-  - TOEIC: 925点 - 2020/12取得
+  - TOEIC: 925点 - 2020/12 取得
 
 
 ## やったことはないが興味があるもの
