@@ -7,6 +7,8 @@
 |Name|島倉孝尚|
 |Blog|[zenn](https://zenn.dev/takanao)|
 |Connection|[Linkdin](https://www.linkedin.com/in/shimakura-takanao-455540211/)|
+## やりたいこと
+IoT業界でソフトウェア、ハードウェアの両面から携わりたい。
 
 ## スキル
 ### 言語
